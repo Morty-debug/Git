@@ -1,16 +1,3 @@
-### crear proyecto
-```batch
-mkdir invocar_libreria-go
-cd invocar_libreria-go
-notepad main.go
-```
-
-### inicializar proyecto
-```batch
-go mod init github.com/Morty-debug/invocar_libreria-go
-go mod tidy
-```
-
 ### interpretar codigo
 ```batch
 go run main.go
@@ -21,11 +8,20 @@ go run main.go
 go build main.go
 ```
 
-### actualizar libreria que esta en internet
+### obtener libreria actualizada
 ```batch
 del /f go.mod
 del /f go.sum
 go mod init github.com/Morty-debug/invocar_libreria-go
 go mod tidy
 go build main.go
+```
+
+### crear el proyecto desde cero
+```batch
+mkdir invocar_libreria-go
+cd invocar_libreria-go
+notepad main.go
+go mod init github.com/Morty-debug/invocar_libreria-go
+go mod tidy
 ```
