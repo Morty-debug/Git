@@ -1,13 +1,13 @@
 ### crear proyecto
 ```batch
-mkdir invocar-go_ejemplo
-cd invocar-go_ejemplo
+mkdir libreria-go
+cd libreria-go
 notepad main.go
 ```
 
 ### inicializar proyecto
 ```batch
-go mod init github.com/Morty-debug/invocar-go_ejemplo
+go mod init github.com/Morty-debug/libreria-go
 go mod tidy
 ```
 
@@ -25,7 +25,7 @@ go build main.go
 ```batch
 del /f go.mod
 del /f go.sum
-go mod init github.com/Morty-debug/invocar-go_ejemplo
+go mod init github.com/Morty-debug/libreria-go
 go mod tidy
 go build main.go
 ```
