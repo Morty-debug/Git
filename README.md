@@ -11,7 +11,7 @@ go mod init github.com/Morty-debug/invocar-go_ejemplo
 go mod tidy
 ```
 
-### actualizar proyecot
+### actualizar libreria que esta en internet
 ```batch
 del /f go.mod
 del /f go.sum
