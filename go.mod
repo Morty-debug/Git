@@ -1,4 +1,4 @@
-module github.com/Morty-debug/libreria-go
+module github.com/Morty-debug/invocar_libreria-go
 
 go 1.17
 
