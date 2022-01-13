@@ -1,7 +1,3 @@
-### interpretar codigo
-```batch
-go run main.go
-```
 
 ### obtener libreria actualizada
 ```batch
@@ -9,7 +5,7 @@ del /f go.mod
 del /f go.sum
 go mod init github.com/Morty-debug/invocar_libreria-go
 go mod tidy
-go build main.go
+go run main.go
 ```
 
 ### crear el proyecto desde cero
