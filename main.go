@@ -1,7 +1,5 @@
 package main
-
-import saludo "github.com/Morty-debug/go_ejemplo/libreria"
-
+import saludo "github.com/Morty-debug/librerias/libreria"
 func main() {
     saludo.Hola()
 }
