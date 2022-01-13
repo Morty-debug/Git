@@ -3,11 +3,6 @@
 go run main.go
 ```
 
-### compilar codigo
-```batch
-go build main.go
-```
-
 ### obtener libreria actualizada
 ```batch
 del /f go.mod
