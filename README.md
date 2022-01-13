@@ -3,7 +3,7 @@
 ```batch
 del /f go.mod
 del /f go.sum
-go mod init github.com/Morty-debug/invocar_libreria-go
+go mod init github.com/Morty-debug/librerias
 go mod tidy
 go run main.go
 ```
@@ -13,6 +13,6 @@ go run main.go
 mkdir invocar_libreria-go
 cd invocar_libreria-go
 notepad main.go
-go mod init github.com/Morty-debug/invocar_libreria-go
+go mod init github.com/Morty-debug/librerias
 go mod tidy
 ```
