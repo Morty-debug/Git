@@ -8,6 +8,7 @@ go mod init github.com/Morty-debug/librerias
 go mod tidy
 ```
 
+
 ### obtener libreria actualizada
 ```batch
 del /f go.mod
