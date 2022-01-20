@@ -5,7 +5,7 @@ go install
 ```
 
 
-### obtener libreria actualizada
+### obtener libreria actualizada de git
 ```batch
 go get -d github.com/Morty-debug/librerias
 ```
