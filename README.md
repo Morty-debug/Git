@@ -1,5 +1,5 @@
 
-### obtener releases de este ejemplo
+### obtener binarios en git de este ejemplo
 ```batch
 go install 
 ```
@@ -11,7 +11,7 @@ go get -d github.com/Morty-debug/librerias
 ```
 
 
-### obtener releases de la libreria actualizada
+### obtener binarios de la libreria actualizada
 ```batch
 go install github.com/Morty-debug/librerias
 ```
