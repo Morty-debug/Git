@@ -1,11 +1,17 @@
 
+### obtener releases de este ejemplo
+```batch
+go install 
+```
+
+
 ### obtener libreria actualizada
 ```batch
 go get -d github.com/Morty-debug/librerias
 ```
 
 
-### obtener releases actualizada
+### obtener releases de la libreria actualizada
 ```batch
 go install github.com/Morty-debug/librerias
 ```
