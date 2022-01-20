@@ -12,7 +12,7 @@ go get -d github.com/Morty-debug/librerias
 ```
 
 
-### obtener binarios de la libreria actualizada
+### obtener binarios de la libreria actualizada de git
 ```batch
 go install github.com/Morty-debug/librerias
 ```
