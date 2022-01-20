@@ -2,6 +2,7 @@
 ### obtener binarios en git de este ejemplo
 ```batch
 go install 
+Go_Git.exe
 ```
 
 
