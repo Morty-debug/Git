@@ -5,6 +5,12 @@ go get -d github.com/Morty-debug/librerias
 ```
 
 
+### obtener releases actualizada
+```batch
+go install github.com/Morty-debug/librerias
+```
+
+
 ### crear el proyecto desde cero
 ```batch
 mkdir Go_Git 
