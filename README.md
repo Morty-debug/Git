@@ -12,7 +12,7 @@ go get -d github.com/Morty-debug/librerias
 ```
 
 
-### obtener binarios de la libreria actualizada de git y usarla como variable de entorno
+### obtener binarios de la libreria en git y usarla como variable de entorno
 ```batch
 go install github.com/Morty-debug/librerias
 librerias.exe
