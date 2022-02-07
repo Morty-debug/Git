@@ -2,7 +2,7 @@
 ### generar binario como variable de entorno
 ```batch
 go install 
-Go_Git.exe
+Git.exe
 ```
 
 
@@ -21,9 +21,9 @@ librerias.exe
 
 ### crear el proyecto desde cero
 ```batch
-mkdir Go_Git 
-cd Go_Git 
+mkdir Git 
+cd Git 
 notepad main.go
-go mod init github.com/Morty-debug/Go_Git
+go mod init github.com/Morty-debug/Git
 go mod tidy
 ```
