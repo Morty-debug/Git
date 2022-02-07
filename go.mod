@@ -1,4 +1,4 @@
-module github.com/Morty-debug/Go_Git
+module github.com/Morty-debug/Git
 
 go 1.17
 
