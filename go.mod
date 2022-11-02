@@ -1,5 +1,5 @@
 module github.com/Morty-debug/Git
 
-go 1.17
+go 1.19
 
-require github.com/Morty-debug/librerias v0.0.0-20220113214355-d6646b62447a
+require github.com/RicardoValladares/Golang/librerias v0.0.0-20221102022721-aac5ebdd297c
