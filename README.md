@@ -8,13 +8,13 @@ Git.exe
 
 ### obtener libreria actualizada de git
 ```batch
-go get -d github.com/RicardoValladares/Golang/librerias
+go get -d github.com/RicardoValladares/Golang/08-librerias
 ```
 
 
 ### obtener binarios de la libreria en git y usarla como variable de entorno
 ```batch
-go install github.com/RicardoValladares/Golang/librerias
+go install github.com/RicardoValladares/Golang/08-librerias
 librerias.exe
 ```
 
